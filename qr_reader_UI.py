@@ -60,7 +60,7 @@ class QRApp:
             conexion = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="28-Junio-02",
+                password="********",
                 database="ultrasteeldata",
                 port=3306
             )
@@ -89,7 +89,7 @@ class QRApp:
             conexion = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="28-Junio-02",
+                password="********",
                 database="ultrasteeldata",
                 port=3306
             )
