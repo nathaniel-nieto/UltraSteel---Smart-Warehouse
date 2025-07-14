@@ -44,7 +44,7 @@ def registrar_kit():
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="28-Junio-02",
+        password="********",
         database="ultrasteeldata"
     )
     cursor = conn.cursor()
